@@ -1,0 +1,7 @@
+CREATE TABLE capstone(
+	id LONG PRIMARY KEY AUTO_INCREMENT,
+	title VARCHAR(255),
+	link VARCHAR(255),
+	teamName VARCHAR(255),
+	rank INTEGER
+);
